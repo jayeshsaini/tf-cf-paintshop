@@ -1,0 +1,6 @@
+---
+applications:
+- name: paintshop
+  memory: 4096MB
+  disk_quota: 1500MB
+  random-route: false

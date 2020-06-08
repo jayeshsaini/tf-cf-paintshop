@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'Circular_Head_Bracket'
+}
+
+item {
+    id: 2
+    name: 'Large_Gasket_Cover'
+}
+
+item {
+    id: 3
+    name: 'Large_Case_Cover'
+}
+
+item {
+    id: 4
+    name: 'Round_Edge_Flange'
+}
+
+item {
+    id: 5
+    name: 'Small_Gasket_Cover'
+}
+
+item {
+    id: 6
+    name: 'Small_Case_Cover'
+}
+
+item {
+    id: 7
+    name: 'Square_Head_Bracket'
+}
+
+item {
+    id: 8
+    name: 'Handle_Bracket'
+}
